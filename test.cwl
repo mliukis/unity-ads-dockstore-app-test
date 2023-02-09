@@ -1,4 +1,7 @@
 #!/usr/bin/env cwl-runner
+
+# ML: test Dockstore registration
+
 cwlVersion: v1.0
 class: CommandLineTool
 
