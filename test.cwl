@@ -4,6 +4,8 @@
 
 cwlVersion: v1.0
 class: CommandLineTool
+label: Bogus test workflow
+doc: Tests workflow registration within Dockstore
 
 requirements:
   DockerRequirement:
